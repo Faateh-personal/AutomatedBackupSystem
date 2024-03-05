@@ -1,0 +1,11 @@
+boto3==1.34.55
+botocore==1.34.55
+cffi==1.16.0
+cryptography==42.0.5
+Encryption==0.0.1
+jmespath==1.0.1
+pycparser==2.21
+python-dateutil==2.9.0.post0
+s3transfer==0.10.0
+six==1.16.0
+urllib3==2.0.7
